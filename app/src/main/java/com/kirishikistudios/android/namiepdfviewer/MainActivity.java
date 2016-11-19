@@ -26,6 +26,18 @@ public class MainActivity extends AppCompatActivity {
             case R.id.buttonC:
                 fileName = "917.pdf";
                 break;
+            case R.id.buttonD:
+                fileName = "4265.pdf";
+                break;
+            case R.id.buttonE:
+                fileName = "4236.pdf";
+                break;
+            case R.id.buttonF:
+                fileName = "4283.pdf";
+                break;
+            case R.id.buttonG:
+                fileName = "11458_35330_misc.pdf";
+                break;
             default:
                 fileName = "";
                 break;

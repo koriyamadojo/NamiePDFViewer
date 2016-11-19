@@ -43,4 +43,44 @@
         android:layout_marginTop="43dp"
         android:layout_below="@+id/buttonB"
         android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="広報なみえ 2015年11月号"
+        android:id="@+id/buttonD"
+        android:onClick="onClick"
+        android:layout_marginTop="43dp"
+        android:layout_below="@+id/buttonC"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="広報なみえ 2015年11月号 副町長就任あいさつ"
+        android:id="@+id/buttonE"
+        android:onClick="onClick"
+        android:layout_marginTop="43dp"
+        android:layout_below="@+id/buttonD"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="お知らせ版"
+        android:id="@+id/buttonF"
+        android:onClick="onClick"
+        android:layout_marginTop="43dp"
+        android:layout_below="@+id/buttonE"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="住民意向調査"
+        android:id="@+id/buttonG"
+        android:onClick="onClick"
+        android:layout_marginTop="43dp"
+        android:layout_below="@+id/buttonF"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>
